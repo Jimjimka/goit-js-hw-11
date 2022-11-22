@@ -88,9 +88,6 @@ body {
     }
 }
 
-.load-more.is-hidden {
-    display: none;
-}
 
 .load-more{
     background-color:blue;
@@ -110,17 +107,25 @@ body {
   
         }
 }
+.is-hiden {
+    display: none;
+}
+
+.info{
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
 
 
-
-
-// .gallery{
-//     display: flex;
-//     flex-wrap: wrap;
-//     gap: 20px;
-//     align-items: center;
-//     justify-content: left;
-// }
 
 
 
