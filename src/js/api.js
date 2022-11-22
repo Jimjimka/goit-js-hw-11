@@ -1,3 +1,4 @@
+'use strict';
 import axios from 'axios';
 BASE_URL = 'https://pixabay.com/api/'
 API_KEY = '31447309-c48142debbc2e62fc86ad26d0'
