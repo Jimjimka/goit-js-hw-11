@@ -1,4 +1,3 @@
-'use strict';
 export function createGallary (item){
     return item
     .map(
