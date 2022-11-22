@@ -1,8 +1,8 @@
-import {PixabayAPI} from '../src/js/api'
+import {PixabayAPI} from './js/api'
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import Notiflix from 'notiflix';
-import {createGallary} from '../src/js/gallary';
+import {createGallary} from './js/gallary';
 
 
 const formEl = document.querySelector('#search-form');
